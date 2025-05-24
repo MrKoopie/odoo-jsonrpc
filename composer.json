@@ -7,10 +7,14 @@
         "jsonrpc",
         "laravel"
     ],
-    "homepage": "https://github.com/obuchmann/odoo-jsonrpc",
+    "homepage": "https://github.com/MrKoopie/odoo-jsonrpc",
     "license": "MIT",
     "type": "library",
     "authors": [
+        {
+            "name": "Daniel Koop",
+            "email": "daniel@yourwebhoster.eu"
+        },
         {
             "name": "Oliver Buchmann",
             "email": "o.buchmann@pc-web.at"
